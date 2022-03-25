@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "537282111381",
+    "project_id": "bike-buy-sell",
+    "storage_bucket": "bike-buy-sell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537282111381:android:a9ce85eb947c99f902789c",
+        "android_client_info": {
+          "package_name": "com.khanmotors.bike_buy_sell_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537282111381-v4p7mmiard1ruajueu6tal2lmd7t6miq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khanmotors.bike_buy_sell_2",
+            "certificate_hash": "130a28e6e724abd4cf6e38209a59edb1f862fc40"
+          }
+        },
+        {
+          "client_id": "537282111381-odmgcnkmb97te6h4k7jn2s7tkpq4qrgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUn58gBdyATckNoot4MKzmbxzend5DhJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537282111381-odmgcnkmb97te6h4k7jn2s7tkpq4qrgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
